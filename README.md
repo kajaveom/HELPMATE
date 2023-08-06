@@ -15,3 +15,10 @@ to choose the crop wisely
 
 ![image](https://github.com/kajaveom/HELPMATE/assets/89060761/c01e8bff-f842-4c08-808c-53cbd2e3c58c)
 
+The User Interface of web application
+
+![image](https://github.com/kajaveom/HELPMATE/assets/89060761/8b5e1dda-bfc7-4a5e-a1e8-e93ea34376b7)
+
+Suggested crop
+
+![image](https://github.com/kajaveom/HELPMATE/assets/89060761/cc91f180-9b64-4830-b046-adccbb2e4dad)
